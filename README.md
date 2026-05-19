@@ -290,10 +290,17 @@ Snowflake:
          ORDER BY total_bookings DESC;
 
 
-![image]()
+![image](https://github.com/user-attachments/assets/846b0995-a823-47ce-8f83-dbf7d3e357e7)
 
-![image]()
+![image](https://github.com/user-attachments/assets/1b19367a-1552-4fb4-a68c-bfe63a3d7984)
 
-![image]()
+![image](https://github.com/user-attachments/assets/42241bdd-b1b5-4cf6-95d5-e666a8e8cc89)
 
-![image]()
+![image](https://github.com/user-attachments/assets/83a399ce-5325-441d-8d93-8a264f993586)
+
+![image](https://github.com/user-attachments/assets/48fd1f4e-951a-4afe-a8a0-85116838eab3)
+
+![image](https://github.com/user-attachments/assets/474d5f78-6140-4168-a027-7d289a44d0c2)
+
+![image](https://github.com/user-attachments/assets/fe426989-8978-40dc-b172-38060bd656ee)
+
