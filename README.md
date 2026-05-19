@@ -4,11 +4,11 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/d90dc93c-e43e-4952-88a4-751ca99c5796)
 
 ## 1. Requisitos del Negocio - Panel de control de Analisis del Hotel.
-## 1.1. Antecedentes
+### 1.1. Antecedentes
 
 El hotel dispone de datos de reservas sin procesar y poco coherentes, y carece de una visión clara de los ingresos mensuales, las tendencias de reservas y el rendimiento a nivel de ciudad. La dirección necesita información rápida y precisa para la toma de decisiones.
 
-## 1.2. Objetivos
+### 1.2. Objetivos
 
 * Limpiar y estandarizar los datos de reservas.
 * Mostrar los ingresos mensuales y las reservas mensuales.
@@ -16,7 +16,7 @@ El hotel dispone de datos de reservas sin procesar y poco coherentes, y carece d
 * Analizar las reservas por tipo y estado.
 * Mostrar los indicadores clave de rendimiento (como los ingresos totales y el número total de reservas).
 
-## 1.3. Requisitos Funcionales
+### 1.3. Requisitos Funcionales
 
 * Limpiar el conjunto de datos brutos (corregir datos, duplicados y valores perdidos).
 * Transformar los datos en agregados mensuales.
@@ -29,7 +29,7 @@ El hotel dispone de datos de reservas sin procesar y poco coherentes, y carece d
 
 * Mostrar los KPI en el panel de control.
 
-## 1.4. Entregables
+### 1.4. Entregables
 
 * Indicadores mensuales precisos.
 * Indicadores clave de rendimiento (KPIs) correctos.
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 ## 2. Creación del Proyecto en Snowflake.
 
-2.1. Creamos un base de datos.
+### 2.1. Creamos un base de datos.
    
      Snowflake:
 
@@ -51,7 +51,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/user-attachments/assets/059cd231-1769-42c2-a8dc-a88368d6b0a5)
 
-2.2. Creamos formato de archivo
+### 2.2. Creamos formato de archivo
 
      Snowflake:
      
