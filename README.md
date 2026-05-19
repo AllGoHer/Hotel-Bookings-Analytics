@@ -1,5 +1,8 @@
 # Hotel-Bookings-Analytics
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+![image](https://github.com/user-attachments/assets/d90dc93c-e43e-4952-88a4-751ca99c5796)
+
 ## 1. Requisitos del Negocio - Panel de control de Analisis del Hotel.
 ## 1.1. Antecedentes
 
@@ -35,11 +38,56 @@ El hotel dispone de datos de reservas sin procesar y poco coherentes, y carece d
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-![image](https://github.com/user-attachments/assets/d90dc93c-e43e-4952-88a4-751ca99c5796)
+## 2. Creación del Proyecto en Snowflake.
 
-2. Creación del Proyecto en Snowflake.
 2.1. Creamos un base de datos.
+   
      Snowflake:
 
                 CREATE DATABASE HOTEL_DB;
 
+
+![image](https://github.com/user-attachments/assets/d382bc40-5f70-456e-8673-03e2565d1e80)
+
+![image](https://github.com/user-attachments/assets/059cd231-1769-42c2-a8dc-a88368d6b0a5)
+
+2.2. Creamos formato de archivo
+
+     Snowflake:
+     
+   	            CREATE OR REPLACE FILE FORMAT FF_CSV 
+                	   TYPE = 'CSV'
+  		          FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+   		          SKIP_HEADER = 1
+  		          NULL_IF = ('NULL', 'null', '')
+
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
+
+![image]()
